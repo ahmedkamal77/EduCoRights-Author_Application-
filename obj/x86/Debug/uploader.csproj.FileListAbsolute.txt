@@ -1,0 +1,229 @@
+C:\Users\HP\Desktop\Course Uploader\obj\x86\Debug\uploader.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Course Uploader\obj\x86\Debug\LoginPage.InsertCourse.resources
+C:\Users\HP\Desktop\Course Uploader\obj\x86\Debug\LoginPage.Properties.Resources.resources
+C:\Users\HP\Desktop\Course Uploader\obj\x86\Debug\LoginPage.Course_Info.resources
+C:\Users\HP\Desktop\Course Uploader\obj\x86\Debug\LoginPage.Sign_In.resources
+C:\Users\HP\Desktop\Course Uploader\obj\x86\Debug\LoginPage.Sign_Up.resources
+C:\Users\HP\Desktop\Course Uploader\obj\x86\Debug\LoginPage.Upload.resources
+C:\Users\HP\Desktop\Course Uploader\obj\x86\Debug\uploader.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Course Uploader\obj\x86\Debug\uploader.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Course Uploader\obj\x86\Debug\LoginPage.exe
+C:\Users\HP\Desktop\Course Uploader\obj\x86\Debug\LoginPage.pdb
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\LoginPage.exe.config
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\LoginPage.exe.manifest
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\LoginPage.application
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\LoginPage.exe
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\LoginPage.pdb
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\CircularProgressBar.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Telerik.WinControls.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\TelerikCommon.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\WinFormAnimation.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\ZstdNet.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\CircularProgressBar.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Google.Protobuf.pdb
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Google.Protobuf.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Telerik.WinControls.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\HP\Desktop\Course Uploader\obj\x86\Debug\LoginPage.exe.manifest
+C:\Users\HP\Desktop\Course Uploader\obj\x86\Debug\LoginPage.application
+C:\Users\HP\Desktop\Course Uploader\obj\x86\Debug\uploader.csproj.CopyComplete
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\FluentEmail.Core.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\FluentEmail.Razor.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\FluentEmail.Smtp.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\RazorLight.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.AspNetCore.Razor.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.CodeAnalysis.Razor.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\RazorLight.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\HP\Desktop\Course Uploader\bin\Debug\System.Text.Encodings.Web.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\LoginPage.exe.config
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\LoginPage.exe.manifest
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\LoginPage.application
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\LoginPage.exe
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\LoginPage.pdb
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\BouncyCastle.Crypto.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\CircularProgressBar.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\FluentEmail.Core.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\FluentEmail.Razor.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\FluentEmail.Smtp.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Google.Protobuf.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\K4os.Compression.LZ4.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\K4os.Hash.xxHash.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.AspNetCore.Razor.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.CodeAnalysis.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\MySql.Data.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Newtonsoft.Json.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\RazorLight.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\System.Buffers.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\System.Collections.Immutable.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\System.Memory.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\System.Numerics.Vectors.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\System.Reflection.Metadata.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\System.Text.Encodings.Web.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Telerik.WinControls.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Telerik.WinControls.UI.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\TelerikCommon.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Ubiety.Dns.Core.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\WinFormAnimation.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\ZstdNet.dll
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\CircularProgressBar.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Google.Protobuf.pdb
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Google.Protobuf.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\K4os.Compression.LZ4.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\K4os.Hash.xxHash.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.AspNetCore.Razor.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.CodeAnalysis.pdb
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.CodeAnalysis.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.CodeAnalysis.Razor.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\MySql.Data.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Newtonsoft.Json.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\RazorLight.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\System.Buffers.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\System.Collections.Immutable.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\System.Memory.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\System.Numerics.Vectors.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\System.Reflection.Metadata.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\System.Text.Encodings.Web.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Telerik.WinControls.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\bin\Debug\Telerik.WinControls.UI.xml
+E:\Studying\Final Project\Discussion Day\Course Uploader\obj\x86\Debug\LoginPage.InsertCourse.resources
+E:\Studying\Final Project\Discussion Day\Course Uploader\obj\x86\Debug\LoginPage.Properties.Resources.resources
+E:\Studying\Final Project\Discussion Day\Course Uploader\obj\x86\Debug\LoginPage.Course_Info.resources
+E:\Studying\Final Project\Discussion Day\Course Uploader\obj\x86\Debug\LoginPage.Sign_In.resources
+E:\Studying\Final Project\Discussion Day\Course Uploader\obj\x86\Debug\LoginPage.Sign_Up.resources
+E:\Studying\Final Project\Discussion Day\Course Uploader\obj\x86\Debug\LoginPage.Upload.resources
+E:\Studying\Final Project\Discussion Day\Course Uploader\obj\x86\Debug\uploader.csproj.GenerateResource.cache
+E:\Studying\Final Project\Discussion Day\Course Uploader\obj\x86\Debug\uploader.csproj.CoreCompileInputs.cache
+E:\Studying\Final Project\Discussion Day\Course Uploader\obj\x86\Debug\LoginPage.exe.manifest
+E:\Studying\Final Project\Discussion Day\Course Uploader\obj\x86\Debug\LoginPage.application
+E:\Studying\Final Project\Discussion Day\Course Uploader\obj\x86\Debug\uploader.csproj.CopyComplete
+E:\Studying\Final Project\Discussion Day\Course Uploader\obj\x86\Debug\LoginPage.exe
+E:\Studying\Final Project\Discussion Day\Course Uploader\obj\x86\Debug\LoginPage.pdb

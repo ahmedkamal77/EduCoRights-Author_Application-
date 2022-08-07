@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="To check the user's data.">
+    <Position X="8.544" Y="1.65" Height="0.291" Width="1.7" />
+  </Comment>
+  <Comment CommentText="If the user does not have an account, he has to register and return to sign in again.">
+    <Position X="12.582" Y="1.33" Height="0.681" Width="1.871" />
+  </Comment>
+  <Comment CommentText="If the user has an account, he will directly go to select course for uploading.">
+    <Position X="4.986" Y="1.099" Height="0.693" Width="1.871" />
+  </Comment>
+  <Comment CommentText="To store the user's data and send email to the adminstrator.">
+    <Position X="10.5" Y="2.5" Height="0.688" Width="1.7" />
+  </Comment>
+  <Comment CommentText="To generate random keys for encryption purposes.">
+    <Position X="3.408" Y="2.167" Height="0.475" Width="1.7" />
+  </Comment>
+  <Comment CommentText="To encyrpt course files with the generated keys.">
+    <Position X="3.408" Y="2.7" Height="0.492" Width="1.7" />
+  </Comment>
+  <Comment CommentText="The author transfers to upload his course to Mediafire and provide the link">
+    <Position X="4.951" Y="3.545" Height="0.624" Width="1.944" />
+  </Comment>
+  <Comment CommentText="The author transfers to provide some information about the course.">
+    <Position X="7" Y="4.5" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="To store the course information .">
+    <Position X="8.933" Y="3.658" Height="0.458" Width="1.308" />
+  </Comment>
+  <Class Name="LoginPage.Course_Info" Collapsed="true">
+    <Position X="9" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CqAAYEAEOCgAAgQBgiDQEAQWXBSMIDQZVAAACYEQgAA=</HashCode>
+      <FileName>Course_Info.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="DatabaseConnection" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="aes256withsalt.cryptor" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>cryptor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoginPage.DatabaseConnection" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACIECiBAAGAAAAQgAAAAkAAARARIAAIIAAAQAAGAgAA=</HashCode>
+      <FileName>DatabaseConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoginPage.InsertCourse" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <AssociationLine Name="Random_Key_Generator" Type="LoginPage.Random_Key_Generator" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.25" Y="2.562" />
+        <Point X="3" Y="2.562" />
+        <Point X="3" Y="1.812" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="TDES" Type="tribleedes.TDES" FixedFromPoint="true">
+      <Path>
+        <Point X="5.25" Y="2.812" />
+        <Point X="2" Y="2.812" />
+        <Point X="2" Y="3.5" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="cryptor" Type="aes256withsalt.cryptor" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.25" Y="2.938" />
+        <Point X="3.312" Y="2.938" />
+        <Point X="3.312" Y="3.5" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>ACAQAFAAACAAABEAICiAIAgGAACAAggAIgAQAAAQAgI=</HashCode>
+      <FileName>InsertCourse.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Random_Key_Generator" />
+      <Property Name="TDES" />
+      <Property Name="cryptor" />
+      <Property Name="Upload" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="LoginPage.Random_Key_Generator" Collapsed="true">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAIABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Random_Key_Generator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoginPage.Sign_In" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <AssociationLine Name="Sign_up" Type="LoginPage.Sign_up" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.25" Y="1" />
+        <Point X="13.562" Y="1" />
+        <Point X="13.562" Y="2.5" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AKAQIgQQACQACBFgAGCAIAgCAAIAADIAgkAAAwBQQAQ=</HashCode>
+      <FileName>Sign_In.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="DatabaseConnection" />
+      <Property Name="Sign_up" />
+      <Property Name="InsertCourse" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="LoginPage.Upload" Collapsed="true">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAAAEAAACgAABAABCGAAAACAQAgAAAAAAAAAQBQAAA=</HashCode>
+      <FileName>Upload.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Course_Info" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="tribleedes.TDES" Collapsed="true">
+    <Position X="1.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAgAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>TDES.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoginPage.Sign_up">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <AssociationLine Name="Sign_In" Type="LoginPage.Sign_In" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="13.812" Y="2.5" />
+        <Point X="13.812" Y="0.75" />
+        <Point X="10.25" Y="0.75" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAgAAAAAAAA=</HashCode>
+      <FileName>Sign_Up.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Sign_In" />
+      <Property Name="DatabaseConnection" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
